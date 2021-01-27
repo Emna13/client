@@ -1,0 +1,11 @@
+.nav{
+    background-color: brown;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: baseline;
+    padding: 20px;
+    
+}
+
